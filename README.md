@@ -1,1 +1,1 @@
-# ASP-.NET-Razor-pages <h2>Core<h2>
+# ASP-.NET-Razor-pages <h1>Core<h1>
